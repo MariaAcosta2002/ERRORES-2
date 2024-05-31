@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://ideogram.ai/assets/image/lossless/response/knmRoUj5RMKSkLszMN-BPA);
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.consulta {
+    background-color: #9370db; /* Morado lila */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+input {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 16px;
+}
+
+button[type="submit"] {
+    background-color: #7b68ee; /* Morado lila más oscuro */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button[type="submit"]:hover {
+    background-color: #6a5acd; /* Morado lila oscuro */
+}
